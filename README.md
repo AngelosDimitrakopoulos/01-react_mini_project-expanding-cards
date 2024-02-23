@@ -4,5 +4,5 @@
 </strong>, by <em>Brad Traversy</em>
 We need to create 5 cards and expand the one that the user clicks.
 
-I created [the same project](https://github.com/AngelosDimitrakopoulos/01-JS_Mini_Project-Expanding-Cards)https://github.com/AngelosDimitrakopoulos/01-JS_Mini_Project-Expanding-Cards using react.
+I created (https://github.com/AngelosDimitrakopoulos/01-JS_Mini_Project-Expanding-Cards)https://github.com/AngelosDimitrakopoulos/01-JS_Mini_Project-Expanding-Cards using react.
 
